@@ -1,0 +1,115 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9459c61b-4a5e-4571-8d71-15bec6d35637" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <execution />
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/composer" />
+    </include_path>
+  </component>
+  <component name="ProjectId" id="1gPdNGQqU1R63Eyob2VolK5QRhy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9459c61b-4a5e-4571-8d71-15bec6d35637" name="Default Changelist" comment="" />
+      <created>1598020119407</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1598020119407</updated>
+      <workItem from="1598020120562" duration="5275000" />
+      <workItem from="1598071108624" duration="2545000" />
+      <workItem from="1598100313092" duration="15700000" />
+      <workItem from="1598116886139" duration="4772000" />
+      <workItem from="1598154670093" duration="4023000" />
+      <workItem from="1598170034447" duration="14525000" />
+      <workItem from="1598201639090" duration="116000" />
+      <workItem from="1598238034049" duration="599000" />
+      <workItem from="1598253321766" duration="3759000" />
+      <workItem from="1598268044843" duration="17324000" />
+      <workItem from="1598324354993" duration="1170000" />
+      <workItem from="1598347849904" duration="3306000" />
+      <workItem from="1598359445817" duration="14316000" />
+      <workItem from="1598411321551" duration="4515000" />
+      <workItem from="1598418555730" duration="198000" />
+      <workItem from="1598420722224" duration="963000" />
+      <workItem from="1598580100251" duration="3000" />
+      <workItem from="1598582658876" duration="712000" />
+      <workItem from="1598618266170" duration="17558000" />
+      <workItem from="1598671880203" duration="4469000" />
+      <workItem from="1598680476927" duration="2086000" />
+      <workItem from="1598686107341" duration="15016000" />
+      <workItem from="1598758561649" duration="1615000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="347" y="66" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog" timestamp="1598721157840">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="347" y="66" key="#com.jetbrains.php.actions.copyPaste.importReferences.PhpImportReferencesDialog/0.0.1366.738@0.0.1366.738" timestamp="1598721157840" />
+    <state x="410" y="66" key="FileChooserDialogImpl" timestamp="1598711914551">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="410" y="66" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1598711914551" />
+    <state x="358" y="45" key="NewPhpClassDialog" timestamp="1598709682643">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="358" y="45" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1598709682643" />
+    <state x="460" y="277" key="NewPhpFileDialog" timestamp="1598715008291">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="460" y="277" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1598715008291" />
+    <state x="104" y="0" key="SettingsEditor" timestamp="1598109388171">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="104" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1598109388171" />
+    <state x="255" y="161" key="run.anything.popup" timestamp="1598273157408">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="255" y="161" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1598273157408" />
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup" timestamp="1598106608424">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="262" y="-1" width="840" height="1034" key="search.everywhere.popup/0.0.1366.738@0.0.1366.738" timestamp="1598106608424" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="php">
+          <url>file://$PROJECT_DIR$/orderPage.php</url>
+          <line>51</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
