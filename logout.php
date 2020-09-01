@@ -23,3 +23,10 @@ if (isset($_GET['pid'])) {
     $dob = \App\classes\Wishlist::deleteSingleCompareProduct($pid);
     header('location:compare.php');
 }
+//DELETE COMPARE PRODUCT
+if (isset($_GET['poid']) && isset($_GET['page']) == 'wishlist') {
+   $pid = $_GET['poid'];
+    $dob = \App\classes\Wishlist::deleteSingleWishProduct($pid);
+    header('location:wishlist.php');
+   
+}

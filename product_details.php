@@ -55,6 +55,13 @@ if(isset($_POST['cart-btn'])){
                         $rtn_wish = Wishlist::addCompareProduct($pid,$cusId);
                     }
                     ?>
+                     <?php
+                    if(isset($_GET['wishlist']) && isset($_GET['id'])){
+                        $pid =  $_GET['id'];
+                        $cusId = \App\classes\Session::get('CustomerId');
+                        $rtn_wish = Wishlist::addWishlistProduct($pid,$cusId);
+                    }
+                    ?>
                     <div class="span6">
                         <h3><?=$Sproduct['name']?>  </h3>
                         <hr class="soft"/>
@@ -67,10 +74,13 @@ if(isset($_POST['cart-btn'])){
 
                                     <button name="cart-btn" type="submit" class="btn btn-large btn-primary pull-right"> Add to cart <i class=" icon-shopping-cart"></i></button>
                                     <br> <br>
+                                    <?php
+                                    if(isset($_SESSION['login'])){?>
                                     <div style="text-align: right">
                                     <a href="?id=<?=$Sproduct['id']?>&compare" class="btn btn-info">Add to Compare</a>
-                                    <a href="" class="btn btn-warning">Add to Wishlist</a>
+                                    <a href="?id=<?=$Sproduct['id']?>&wishlist" class="btn btn-warning">Add to Wishlist</a>
                                     </div>
+                                        <?php } ?>
                                 </div>
                             </div>
                         </form>
